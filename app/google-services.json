@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51166017089",
+    "project_id": "christapp-65c48",
+    "storage_bucket": "christapp-65c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51166017089:android:a72052514aaccc9d6938c0",
+        "android_client_info": {
+          "package_name": "com.adityabiswal2147207.christapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51166017089-u1aocfs8t5cfhl22q1g349029kkmdm32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmFQi6_kG-XVBdz-8qllO9zRASFO4Cv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51166017089-u1aocfs8t5cfhl22q1g349029kkmdm32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
